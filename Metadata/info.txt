@@ -1,0 +1,25 @@
+This folder contains the following informations:
+-Exp1_ML (first baseline ML experiment)
+--Code as .txt
+--Datset stats (ydata) of trainset as JSON
+--Experiment logs (Mlflow) as JSON
+
+-Exp2_ML (ML experiment with changed paramters)
+--Code as .txt
+--Datset stats (ydata) of trainset as JSON
+--Experiment logs (Mlflow) as JSON
+
+-Exp3_ML (ML experiment with changed data preprocessing)
+--Code as .txt
+--Datset stats (ydata) of trainset as JSON
+--Experiment logs (Mlflow) as JSON
+
+-Exp1_DL (first baseline DL experiment)
+--Code as .txt
+--Datset stats (ydata) of trainset as JSON
+--Experiment logs (Mlflow) as JSON
+
+-Exp2_DL (DL experiment with changed paramters)
+--Code as .txt
+--Datset stats (ydata) of trainset as JSON
+--Experiment logs (Mlflow) as JSON
